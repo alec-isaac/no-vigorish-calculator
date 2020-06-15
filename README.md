@@ -31,7 +31,7 @@ Then to produce Calculator Outputs, in Terminal:
         
         i.e., node no_Vig_Yargs.js convertML --ml_One=-140 --ml_Two=125
 
-        Outputs [![Screen-Shot-2020-06-15-at-3-39-19-PM.png](https://i.postimg.cc/G2y7Kvkd/Screen-Shot-2020-06-15-at-3-39-19-PM.png)](https://postimg.cc/JDR54D62)
+        Outputs [![Screen-Shot](https://i.postimg.cc/G2y7Kvkd/Screen-Shot-2020-06-15-at-3-39-19-PM.png)](https://postimg.cc/JDR54D62)
 
 # Why Use a No-Vig Calc 
 
