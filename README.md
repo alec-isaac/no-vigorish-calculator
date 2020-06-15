@@ -1,39 +1,40 @@
 # no-vigorish-calculator
 Accepts Two MLs For a Particular Game -> Distills the No-Vig Probability of Each Team/Prop Winning
 
-# Description 
+## Description 
 
 This Calculator removes the Sportsbooks "Vig" or "Edge" and returns the percentage likelihood of each Team/Prop winning. 
 
 This Calculator outputs the following: 
 
-(1) The Inputted MLs For Each Team/Prop
-(2) The No-Vig ML For Each Team/Prop
-(3) The Vig Probabilities of Each Team Winning'
-(4) The No-Vig Implied Probabilities of Each Team Winning
-(5) The Total Vig Added to the Event
+1. The Inputted MLs For Each Team/Prop
+1. The No-Vig ML For Each Team/Prop
+1. The Vig Probabilities of Each Team Winning'
+1. The No-Vig Implied Probabilities of Each Team Winning
+1. The Total Vig Added to the Event
 
-# Installation
+## Installation
 
 Clone/Download the Github Repository 
 
-# Usage 
+## Usage 
 
 After Cloning/Downloading
 
 In Terminal:
-(1) Navigate into no-vigorish-calculator-master 
-(2) Navigate into no_Vig_Calc
 (3) npm install
-
-Then to produce Calculator Outputs, in Terminal: 
-(4) node no_Vig_Yargs.js convertML --ml_One={firstMLHere} --ml_Two={secondMLHere}
+1.  Navigate into no-vigorish-calculator-master 
+1.  Navigate into no_Vig_Calc
+1.  npm install 
+1. node no_Vig_Yargs.js convertML --ml_One={firstMLHere} --ml_Two={secondMLHere}
         
         i.e., node no_Vig_Yargs.js convertML --ml_One=-140 --ml_Two=125
 
-        Outputs [![Screen-Shot](https://i.postimg.cc/G2y7Kvkd/Screen-Shot-2020-06-15-at-3-39-19-PM.png)](https://postimg.cc/JDR54D62)
+        Results in the following Output...
+        
+ [![Screen-Shot](https://i.postimg.cc/G2y7Kvkd/Screen-Shot-2020-06-15-at-3-39-19-PM.png)](https://postimg.cc/JDR54D62)
 
-# Why Use a No-Vig Calc 
+## Why Use a No-Vig Calc 
 
 "Vig", "Vigorish", or "Juice" all refer to the Sportsbooks cut of action for booking your wager on a game / event and is akin to the "rake" in poker. 
 
@@ -56,4 +57,4 @@ Using this Calculator you would find that with the Vig, Team A had a 59.20% chan
 
 Thus, by using this Calculator to remove this juice, we find that the actual probability of Team A winning is 56.56% and Team B had a chance of winning of 43.44%. 
 
-These figures represent the true odds of each team winning, and as such should be used when line shopping and deciding where the team you are going to bet has the highest best value when compared to the true probability of winning. 
+These figures represent the true odds of each team winning, and as such should be used along with their true No-Vig ML counterparts when line shopping and deciding where the team you are going to bet has the highest best value when compared to the true probability of winning. 
