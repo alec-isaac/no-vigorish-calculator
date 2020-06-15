@@ -29,7 +29,7 @@ In Terminal:
         
         i.e., node no_Vig_Yargs.js convertML --ml_One=-140 --ml_Two=125
 
-        Outputs 
+        Results in the following Output...
         
  [![Screen-Shot](https://i.postimg.cc/G2y7Kvkd/Screen-Shot-2020-06-15-at-3-39-19-PM.png)](https://postimg.cc/JDR54D62)
 
@@ -56,4 +56,4 @@ Using this Calculator you would find that with the Vig, Team A had a 59.20% chan
 
 Thus, by using this Calculator to remove this juice, we find that the actual probability of Team A winning is 56.56% and Team B had a chance of winning of 43.44%. 
 
-These figures represent the true odds of each team winning, and as such should be used when line shopping and deciding where the team you are going to bet has the highest best value when compared to the true probability of winning. 
+These figures represent the true odds of each team winning, and as such should be used along with their true No-Vig ML counterparts when line shopping and deciding where the team you are going to bet has the highest best value when compared to the true probability of winning. 
