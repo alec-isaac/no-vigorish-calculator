@@ -22,7 +22,6 @@ Clone/Download the Github Repository
 After Cloning/Downloading
 
 In Terminal:
-(3) npm install
 1.  Navigate into no-vigorish-calculator-master 
 1.  Navigate into no_Vig_Calc
 1.  npm install 
