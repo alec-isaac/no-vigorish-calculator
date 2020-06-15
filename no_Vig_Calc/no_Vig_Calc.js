@@ -93,6 +93,8 @@ const convertMLtoProbs = (ml_One, ml_Two) => {
       total_Vig_Added
     )}%}`
   );
+
+  console.log('')
 };
 
 module.exports = convertMLtoProbs;
