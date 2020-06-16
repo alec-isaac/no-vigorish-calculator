@@ -41,7 +41,7 @@ The Vig is how the sportsbooks profit off of taking wagers.
 
 A simple example: 
 
-The sportsbook offers Team A @ -145 and Team B +7 @ +120. 
+The sportsbook offers Team A @ -140 and Team B +7 @ +125 
 
 Travis decides to bet $145 on Team A. If successful this Bet will net Travis a profit of $100 and his $145 back. 
 Josh decides to bet team $100 on Team B. If successful this Bet will net Josh a profit of $120 and his $100 back. 
@@ -52,8 +52,8 @@ Thus, the sportsbook started with $245 and returned $220, so they are left with 
 
 However, the implied probability of each team winning is not the same as what the spreads (-145, +120) above indicate. 
 
-Using this Calculator you would find that with the Vig, Team A had a 59.20% chance of winnning and Team B had a 45.50% chance of winning. Adding these two numbers up leaves you with a number greater than 100%. This is no accident, the difference above 100% is the Vig added by the sportsbook. 
+Using this Calculator you would find that with the Vig, Team A had a 58.33% chance of winnning and Team B had a 44.44% chance of winning. Adding these two numbers up leaves you with a number greater than 100%. This is no accident, the difference above 100% is the Vig added by the sportsbook. 
 
-Thus, by using this Calculator to remove this juice, we find that the actual probability of Team A winning is 56.56% and Team B had a chance of winning of 43.44%. 
+Thus, by using this Calculator to remove this juice, we find that the actual probability of Team A winning is 56.76% and Team B had a chance of winning of 43.24%. 
 
 These figures represent the true odds of each team winning, and as such should be used along with their true No-Vig ML counterparts when line shopping and deciding where the team you are going to bet has the highest best value when compared to the true probability of winning. 
